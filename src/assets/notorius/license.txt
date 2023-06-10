@@ -1,0 +1,8 @@
+Model Information:
+* title:	Notorius Face Abstract Geometry Animation Loop
+* source:	https://sketchfab.com/3d-models/notorius-face-abstract-geometry-animation-loop-89beabda907f402b93e4432b9628d4d7
+* author:	SonicVisual (https://sketchfab.com/sonicvisual)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
